@@ -1,0 +1,6 @@
+@BookStore.API_HostAddress = http://localhost:5294
+
+GET {{BookStore.API_HostAddress}}/
+Accept: application/json
+
+###
